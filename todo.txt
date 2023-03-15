@@ -5,3 +5,4 @@ D) Add a python code
 E) Add documentation
 F) Update citation
 G) Make a requirements.txt
+H) Add a collaborator
