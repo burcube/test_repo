@@ -1,2 +1,4 @@
+B) Add a plot
 C) Add documentation folder
 D) Add a python code
+E) Invite collaborators
