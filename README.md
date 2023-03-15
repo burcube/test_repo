@@ -1,4 +1,3 @@
-Description
 Usage
 Requirements
 Documentation link
