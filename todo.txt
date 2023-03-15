@@ -1,5 +1,5 @@
 A) Add a todo list
-B) Add a plot
+B) Add an example plot
 C) Add documentation folder
 D) Add a python code
 E) Add documentation
