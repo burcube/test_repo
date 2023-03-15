@@ -1,2 +1,4 @@
 A) Make a todo list
 B) Add a plot
+C) Add documentation folder
+D) Add a python code
