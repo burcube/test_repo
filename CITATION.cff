@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Working with code repositories
+message: This is a testrepository used for education
+type: software
+authors:
+  - given-names: Burcu
+    family-names: Beygu
+    email: burcu.beygu@rug.nl
