@@ -1,6 +1,6 @@
 TODO:Add authoor
 It is a note from Fatemeh
-MOreee
+Moreee
 Usage
 Requirements
 Documentation link
