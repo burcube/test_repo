@@ -6,3 +6,4 @@ E) Add documentation
 F) Update citation
 G) Make a requirements.txt
 H) Add a collaborator
+j) Work with branches
